@@ -40,7 +40,8 @@ export default function Signin() {
                 <button onClick={valid} className="btn btn-outline-light btn-lg px-5" type="submit">START</button>
             </div>
             <div>
-                <p className="mb-0">SVCOLLEGE כל הזכויות שמורות@
+            <p className="mb-0">
+                    @SVCOLLEGE כל הזכויות שמורות
                 </p>
             </div>
         </div>

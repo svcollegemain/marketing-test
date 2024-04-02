@@ -16,7 +16,7 @@ export default function AllTests() {
                     <ChooseTests key='digitalMarkting' logo={test.logo} info={test.info} title='digitalMarkting'/>
                 ))}
                 <p className="mb-0">
-                    SVCOLLEGE כל הזכויות שמורות@
+                    @SVCOLLEGE כל הזכויות שמורות
                 </p>
             </div>
         </div>

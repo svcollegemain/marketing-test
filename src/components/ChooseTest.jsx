@@ -22,7 +22,7 @@ export default function ChooseTest({ info, title }) {
                 <div className="row g-0">
                     <div className="col-12">
                         <div className="card-body">
-                            <h5 className="card-title">{title}</h5>
+                            <h5 className="card-title">{title === 'digitalMarkting' ? 'Digital Marketing' : title}</h5>
                             <p className="card-text">
                                 {info}
                             </p>

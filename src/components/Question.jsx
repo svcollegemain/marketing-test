@@ -24,7 +24,7 @@ export default function Question({ title, list, quNO }) {
                         <div className="row g-0">
                             <div className="col-12">
                                 <div className="card-body btn btn-link stretched-link">
-                                    <input style={{color:'white'}} class="btn" type="button" value={q}></input>
+                                    <input style={{color:'white'}} class="btn" type="button" value={q}/>
                                 </div>
                             </div>
                         </div>
@@ -34,3 +34,5 @@ export default function Question({ title, list, quNO }) {
         </div>
     )
 }
+
+
