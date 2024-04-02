@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/markettest/static/css/main.25fc7b42.css",
-    "main.js": "/markettest/static/js/main.c67f7f33.js",
-    "static/media/LOGO.png": "/markettest/static/media/LOGO.9b41e475fd9c27c2333e.png",
-    "static/media/Capture.PNG": "/markettest/static/media/Capture.245b244080f40ddab0aa.PNG",
-    "static/media/Capture3.PNG": "/markettest/static/media/Capture3.d17b606f9f098f69fd78.PNG",
-    "static/media/Capture1.PNG": "/markettest/static/media/Capture1.a2eb9650579b7886a5a2.PNG",
-    "index.html": "/markettest/index.html",
-    "main.25fc7b42.css.map": "/markettest/static/css/main.25fc7b42.css.map",
-    "main.c67f7f33.js.map": "/markettest/static/js/main.c67f7f33.js.map"
+    "main.css": "/market-test/static/css/main.25fc7b42.css",
+    "main.js": "/market-test/static/js/main.225261b5.js",
+    "static/media/LOGO.png": "/market-test/static/media/LOGO.9b41e475fd9c27c2333e.png",
+    "static/media/Capture.PNG": "/market-test/static/media/Capture.245b244080f40ddab0aa.PNG",
+    "static/media/Capture3.PNG": "/market-test/static/media/Capture3.d17b606f9f098f69fd78.PNG",
+    "static/media/Capture1.PNG": "/market-test/static/media/Capture1.a2eb9650579b7886a5a2.PNG",
+    "index.html": "/market-test/index.html",
+    "main.25fc7b42.css.map": "/market-test/static/css/main.25fc7b42.css.map",
+    "main.225261b5.js.map": "/market-test/static/js/main.225261b5.js.map"
   },
   "entrypoints": [
     "static/css/main.25fc7b42.css",
-    "static/js/main.c67f7f33.js"
+    "static/js/main.225261b5.js"
   ]
 }
